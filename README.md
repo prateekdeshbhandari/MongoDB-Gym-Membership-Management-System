@@ -102,9 +102,12 @@ mongod
 1. Access the application at `http://localhost:5000`
 2. You'll be redirected to the login page
 3. Enter admin credentials to access the dashboard
-![alt text](image.png)
+<img width="1144" height="834" alt="image" src="https://github.com/user-attachments/assets/dc952c50-de3b-45b9-a171-44fad33cc633" />
+
 ### Add a New Member
-![alt text](image-1.png)
+<img width="1588" height="856" alt="image" src="https://github.com/user-attachments/assets/16c08f9c-6e94-40bf-aca9-fa2bf3855831" />
+
+
 
 ### View Members
 - All members are displayed in a table with:
@@ -112,13 +115,14 @@ mongod
   - Subscription plan and dates
   - Membership status (Active/Expired)
   - Action buttons (View, Update, Delete)
-![alt text](image-2.png)
-
+<img width="1509" height="738" alt="image" src="https://github.com/user-attachments/assets/31cc3d5f-316b-443e-9d36-bdfd77c3a49c" />
 
 ### Manage Expired Memberships
-![alt text](image-3.png)
+<img width="1739" height="682" alt="image" src="https://github.com/user-attachments/assets/7980e340-a8c1-4b5d-bfc0-76c63b883c3d" />
+
 ### MongoDB Connection 
-![alt text](image-4.png)
+<img width="1767" height="733" alt="image" src="https://github.com/user-attachments/assets/65f65eba-0261-40d6-8d06-76ba2d70738d" />
+
 
 ## Technologies Used
 
