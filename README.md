@@ -132,6 +132,6 @@ mongod
 - **Authentication**: Werkzeug password hashing
 
 **Need Help?** 
-contact :
-name: Prateek G Deshbhandari
-gmail: deshbhandariprateek7@gmail.com
+contact :<br>
+name: Prateek G Deshbhandari<br>
+gmail: deshbhandariprateek7@gmail.com<br>
